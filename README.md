@@ -16,9 +16,9 @@ The main class is called "Main" in the main package. In this class, you may sele
 Usage & License
 ===========================================================================================================================================================================
 
-This code illustrates how the Bidirectional Pules can be used under a CG scheme.
+This code illustrates how the Bidirectional Pulss can be used under a CG scheme.
 
-If you use (or modified) this code, please cite the paper. 
+If you use (or modify) this code, please cite the paper. 
 
 The authors would really enjoy to know the (good) use of the pulse algorithm in different fields, so please send a line to nicolas.cabrera-malik@hec.ca
 describing us your application (as brief as you want). 
